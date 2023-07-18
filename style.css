@@ -1,0 +1,30 @@
+*
+{
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 1000px;
+    background-color: #1c2327;
+    color: white; 
+}
+.navbar .nav-link, .card-title, .datework{
+    color: white; 
+  }
+.navbar{
+    padding: 0;
+}
+.navbar .navbar-nav a{
+    font-size: large;
+}
+.companylogo{
+    width: 200px;
+    height: auto;
+}
+.workexp, .skills .card, .interest{
+    background-color: #1c2327;
+}
+.skills img{
+    width: 150px;
+    height: auto;
+}
+
+
+
